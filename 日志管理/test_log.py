@@ -1,5 +1,4 @@
 from logger_config import setup_logger, get_logger
-import logging
 
 
 # 在程序启动时配置logger
